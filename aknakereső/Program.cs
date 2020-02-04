@@ -36,6 +36,18 @@ namespace aknakereső
                     pálya[sor, oszlop] = '_';
                 }
             }
+            Random gép = new Random();
+            int sor;
+            int oszlop;
+            for (int i = 0; i < 10; i++)
+			{
+                do
+	            {
+                sor = gép.Next(10);
+                oszlop = gép.Next(10);
+	            } while (páya[sor,oszlop]=='B');
+                pálya[sor,oszlop]='B';
+			}
         }
     }
 }
