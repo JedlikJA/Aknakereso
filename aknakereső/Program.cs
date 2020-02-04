@@ -8,7 +8,7 @@ namespace aknakereső
 {
     class Program
     {
-        char[,] pálya = new char[10,10]; // ha kívül van létrehozva akkor az alprogramok is látják 
+        char[,] pálya = new char[10,10]; 
         static void Main(string[] args)
         {
             Feltöltés();
