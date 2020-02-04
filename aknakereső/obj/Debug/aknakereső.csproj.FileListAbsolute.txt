@@ -1,0 +1,2 @@
+C:\Users\juhász.ábel.kristóf\Desktop\Új mappa\aknakereső\obj\Debug\aknakereső.csprojAssemblyReference.cache
+C:\Users\juhász.ábel.kristóf\Desktop\Új mappa\aknakereső\obj\Debug\aknakereső.csproj.CoreCompileInputs.cache

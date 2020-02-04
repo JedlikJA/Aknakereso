@@ -15,5 +15,9 @@ namespace aknakereső
             
             Console.ReadKey();
         }
+        static void Feltöltés()
+        {
+            
+        }
     }
 }
